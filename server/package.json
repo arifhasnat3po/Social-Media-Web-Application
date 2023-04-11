@@ -4,6 +4,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "start": "node index.js",
+    "start": "nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -26,3 +28,4 @@
   "devDependencies": {},
   "description": ""
 }
+
