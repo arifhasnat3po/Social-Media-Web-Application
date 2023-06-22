@@ -1,7 +1,5 @@
 # Social-Media-Web-Application
 
-# Social Media Web Application
-
 The Social Media Web Application is a web-based platform that allows users to connect, share, and interact with each other through posts, comments, and likes. It provides a social networking experience where users can create an account, post content, engage with other users' posts, and manage their profiles.
 
 ## Features
