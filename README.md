@@ -53,15 +53,3 @@ Contributions to the Social Media Web Application project are welcome! If you wo
 3. Make your changes and commit them: `git commit -m 'Add your commit message'`
 4. Push the changes to your forked repository: `git push origin feature/your-feature-name`
 5. Submit a pull request to the main repository
-
-## License
-
-[Insert license information, e.g., MIT License]
-
-## Contact
-
-If you have any questions, suggestions, or feedback, please feel free to reach out to the project maintainer:
-
-- Name: [Your Name]
-- Email: [Your Email]
-
