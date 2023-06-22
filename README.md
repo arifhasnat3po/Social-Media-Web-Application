@@ -21,28 +21,20 @@ The Social Media Web Application is built using the following technologies and f
 
 - Frontend:
   - HTML, CSS, JavaScript
-  - [Insert any additional frontend technologies or frameworks used]
+  - React
 
 - Backend:
-  - [Insert backend language, e.g., Python, Node.js]
-  - [Insert backend framework, e.g., Flask, Express.js]
-  - [Insert any additional backend technologies or frameworks used]
+  - NODE.js
+  - Express.js
+  
 
 - Database:
-  - [Insert database technology, e.g., MySQL, MongoDB]
+  - MongoDB
 
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/arifhasnat3po/Social-Media-Web-Application.git`
 2. Navigate to the project directory: `cd Social-Media-Web-Application`
-3. Install dependencies:
-   - Frontend: [Insert instructions for frontend dependencies installation]
-   - Backend: [Insert instructions for backend dependencies installation]
-4. Configure the database connection: [Insert instructions for configuring the database connection]
-5. Start the application:
-   - Frontend: [Insert instructions for starting the frontend application]
-   - Backend: [Insert instructions for starting the backend application]
-6. Access the application in your browser: [Insert URL or localhost information]
 
 ## Contributing
 
